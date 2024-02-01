@@ -2,4 +2,9 @@ Soy Jorge Hernández
 tengo 23 años
 juego videojuegos
 me gustan mucho las peliculas
-mi comida favorita son las albondigas 
+mi comida favorita son las albondigas
+texto1
+texto2
+texto3
+texto4
+texto5 
