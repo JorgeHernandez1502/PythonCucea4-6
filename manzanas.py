@@ -1,0 +1,5 @@
+precioManzana=float(input('Dime el precio de la manzana: '))
+cantidadManzana=float(input('Dime la cantidad de manzanas vendidas: '))
+print("hola buenas tardes")
+print("su total es")
+print(precioManzana*cantidadManzana)
